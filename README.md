@@ -1,4 +1,3 @@
-# PrimeiraAplicacao
 
 <h1 align="center">Oi 👋, eu sou WIlliam</h1>
 <h3 align="center">Entusiasta em tecnologia, Focado em Data Science</h3>
